@@ -1,5 +1,5 @@
 # Fruit_Classification
-Analyzing the abilities of a CNN to classify fruits.
+Analyzing the abilities of a CNN to classify fruits by type.
 
 ## Software and Platform Section
 Language: Python (Jupyter Notebook) <br>
@@ -10,6 +10,12 @@ Platform: Windows, Mac <br>
 Fruit_Classification/ <br>
 ├── SCRIPTS/ <br>
 ├── DATA/ <br>
+| ├── Fruits_Dataset_Test/ <br>
+| ├── Fruits_Dataset_Train/ <br>
+| ├── Sample_Images/ <br>
+| ├── Fruit_Summary.jpg <br>
+| ├── Labels_Test.csv <br>
+| ├── Labels_Train.csv <br>
 ├── OUTPUT/ <br>
 ├── LICENSE.md <br>
 ├── README.md <br>
