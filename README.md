@@ -10,9 +10,9 @@ Platform: Windows, Mac <br>
 Fruit_Classification/ <br>
 ├── SCRIPTS/ <br>
 ├── DATA/ <br>
-├── ├── Fruits_Dataset_Test/ <br>
-├── ├── Fruits_Dataset_Train/ <br>
-├── ├── Sample_Images/ <br>
+├── ├── Fruits_Dataset_Test/ *<br>
+├── ├── Fruits_Dataset_Train/ *<br>
+├── ├── Sample_Images/ *<br>
 ├── ├── Fruit_Summary.jpg <br>
 ├── ├── Labels_Test.csv <br>
 ├── ├── Labels_Train.csv <br>
@@ -20,6 +20,8 @@ Fruit_Classification/ <br>
 ├── LICENSE.md <br>
 ├── README.md <br>
 ├── data_appendix.pdf <br>
+
+* Truncated contents due to large size.
 
 ## Reproduction Instructions
 
