@@ -27,3 +27,4 @@ Fruit_Classification/ <br>
 
 Step 1: Download data from Mendeley Data. Link: https://data.mendeley.com/datasets/5prc54r4rt/1 <br>
 Step 2: Run 2_Elementary_Data_Analysis.ipynb <br>
+Step 3: 3_Machine_Learning_Training_Testing.ipynb <br>
