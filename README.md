@@ -9,6 +9,8 @@ Platform: Windows, Mac <br>
 ## Directory
 Fruit_Classification/ <br>
 ├── SCRIPTS/ <br>
+├── ├── Run 2_Elementary_Data_Analysis.ipynb <br>
+├── ├── Run 3_Machine_Learning_Training_Testing.ipynb <br>
 ├── DATA/ <br>
 ├── ├── Fruits_Dataset_Test/ *<br>
 ├── ├── Fruits_Dataset_Train/ *<br>
